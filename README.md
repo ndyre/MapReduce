@@ -1,4 +1,4 @@
 A complete implementation of the MapRedce programming model.
-https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04 
+https://research.google/pubs/mapreduce-simplified-data-processing-on-large-clusters/ 
 
 Designed and implented the Coordinater process in src/coordinator/mod.rs.
